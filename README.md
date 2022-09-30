@@ -1,0 +1,4 @@
+- 👋 Olá, meu nome é @LuizCarlosdeLima.
+- Meu email de contato  é luiz.rosa.lima@escola.pr.gov.br
+- 👀 I’m interested in  aprender programar novas linguagens
+- 🌱 Eu estou  aprenden a programar recentemente a linguagem de  JavaScript e Scratch
